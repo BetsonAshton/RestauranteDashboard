@@ -1,0 +1,12 @@
+D:\workspace\C#\treino3\RestauranteDashboard\RestauranteDashBoard.Infra.Data\bin\Debug\net8.0\RestauranteDashBoard.Infra.Data.deps.json
+D:\workspace\C#\treino3\RestauranteDashboard\RestauranteDashBoard.Infra.Data\bin\Debug\net8.0\RestauranteDashBoard.Infra.Data.dll
+D:\workspace\C#\treino3\RestauranteDashboard\RestauranteDashBoard.Infra.Data\bin\Debug\net8.0\RestauranteDashBoard.Infra.Data.pdb
+D:\workspace\C#\treino3\RestauranteDashboard\RestauranteDashBoard.Infra.Data\obj\Debug\net8.0\RestauranteDashBoard.Infra.Data.csproj.AssemblyReference.cache
+D:\workspace\C#\treino3\RestauranteDashboard\RestauranteDashBoard.Infra.Data\obj\Debug\net8.0\RestauranteDashBoard.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\C#\treino3\RestauranteDashboard\RestauranteDashBoard.Infra.Data\obj\Debug\net8.0\RestauranteDashBoard.Infra.Data.AssemblyInfoInputs.cache
+D:\workspace\C#\treino3\RestauranteDashboard\RestauranteDashBoard.Infra.Data\obj\Debug\net8.0\RestauranteDashBoard.Infra.Data.AssemblyInfo.cs
+D:\workspace\C#\treino3\RestauranteDashboard\RestauranteDashBoard.Infra.Data\obj\Debug\net8.0\RestauranteDashBoard.Infra.Data.csproj.CoreCompileInputs.cache
+D:\workspace\C#\treino3\RestauranteDashboard\RestauranteDashBoard.Infra.Data\obj\Debug\net8.0\RestauranteDashBoard.Infra.Data.dll
+D:\workspace\C#\treino3\RestauranteDashboard\RestauranteDashBoard.Infra.Data\obj\Debug\net8.0\refint\RestauranteDashBoard.Infra.Data.dll
+D:\workspace\C#\treino3\RestauranteDashboard\RestauranteDashBoard.Infra.Data\obj\Debug\net8.0\RestauranteDashBoard.Infra.Data.pdb
+D:\workspace\C#\treino3\RestauranteDashboard\RestauranteDashBoard.Infra.Data\obj\Debug\net8.0\ref\RestauranteDashBoard.Infra.Data.dll

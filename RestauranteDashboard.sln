@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestauranteDashboard.Service", "RestauranteDashboard.Service\RestauranteDashboard.Service.csproj", "{C25DBCC2-2EFD-481D-8B57-A242CD319538}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{E6CF995D-90BA-4D8D-83DC-11D3F8AAF664}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MVC", "MVC", "{D163588D-7A0A-47D7-A139-40998C487691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestauranteDashboard.Presentation", "RestauranteDashboard.Presentation\RestauranteDashboard.Presentation.csproj", "{610F4946-7404-4749-B685-D3DAEDC2CA42}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InfraStructure", "InfraStructure", "{1BE1F1DF-0CA2-4A2E-931E-10F163553A0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestauranteDashBoard.Infra.Data", "RestauranteDashBoard.Infra.Data\RestauranteDashBoard.Infra.Data.csproj", "{1D6AE8F6-3B9E-4636-AFFF-B36E2304CE3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C25DBCC2-2EFD-481D-8B57-A242CD319538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25DBCC2-2EFD-481D-8B57-A242CD319538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25DBCC2-2EFD-481D-8B57-A242CD319538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C25DBCC2-2EFD-481D-8B57-A242CD319538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{610F4946-7404-4749-B685-D3DAEDC2CA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610F4946-7404-4749-B685-D3DAEDC2CA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610F4946-7404-4749-B685-D3DAEDC2CA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610F4946-7404-4749-B685-D3DAEDC2CA42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D6AE8F6-3B9E-4636-AFFF-B36E2304CE3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D6AE8F6-3B9E-4636-AFFF-B36E2304CE3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D6AE8F6-3B9E-4636-AFFF-B36E2304CE3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D6AE8F6-3B9E-4636-AFFF-B36E2304CE3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C25DBCC2-2EFD-481D-8B57-A242CD319538} = {E6CF995D-90BA-4D8D-83DC-11D3F8AAF664}
+		{610F4946-7404-4749-B685-D3DAEDC2CA42} = {D163588D-7A0A-47D7-A139-40998C487691}
+		{1D6AE8F6-3B9E-4636-AFFF-B36E2304CE3A} = {1BE1F1DF-0CA2-4A2E-931E-10F163553A0E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F499424D-13F1-41E0-9F00-23C104105071}
+	EndGlobalSection
+EndGlobal
